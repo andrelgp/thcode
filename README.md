@@ -1,5 +1,6 @@
 # thcode-ProjSSTMap
-Code generated during my Doctored Thesis
+
+Esse é o primeiro conjunto de codigos da tese. É responsável pela geração de mapas.
 
 Fazem parte desse codigo:
 
@@ -14,6 +15,8 @@ ArtificialMap.py : Classe que gera o mapa artificial para comparação.
 SSTMap.py : Classe que gerencia a leitura dos Mapas oriundos da classe SSTMethods.py
 
 SSTMethods.py : O arquivo sst_methods.py que foi transformado em Classe.
+
+PlotMap.py : gera mapas em arquivos (.png). Poder gerar figuras contendo 6 mapas (1 para cada canal do SST) ou mapas separados independentemente de canal.
 
 Conforme combinamos, o que precisa ser feito:
 
