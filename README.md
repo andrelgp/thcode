@@ -29,6 +29,8 @@ estão nos arquivos iniciais Nmain, GenerateMaps e MapRepair
 
 2. Entender e documentar cada modulo.
 
+3. Atualizar o programa para Python 3 e alterar o programa de acesso aos dados do SST que o Guigue fez.
+
 Assim que for entendendo e executando, você pode melhorar o codigo. É o tempo que organizo para colocar os programas seguintes.
 
 
