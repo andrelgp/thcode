@@ -33,4 +33,5 @@ estão nos arquivos iniciais Nmain, GenerateMaps e MapRepair
 
 Assim que for entendendo e executando, você pode melhorar o codigo. É o tempo que organizo para colocar os programas seguintes.
 
+OBS: O arquivo "M06 - Copy.7z" contem uma amostra de binários e o arquivo "SST_maps.zip" contem os mapas gerados através dos binarios. 
 
